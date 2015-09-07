@@ -1,6 +1,8 @@
 gdata==2.0.18
 google-api-python-client==1.4.1
 httplib2==0.9.1
+Flask==0.10.1
+gunicorn==19.3.0
 lxml==3.4.4
 oauth2client==1.5.0
 requests==2.7.0
